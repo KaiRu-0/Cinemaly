@@ -15,7 +15,7 @@ To get started with Cinimaly, you need to have Python and pip installed. Then, i
 pip install numpy pandas scikit-learn
 
 
-Contributing
+Contribution:
 Don't bother contributing to this, I'm just doing this for practice
 
 KaiRu's Notes:
